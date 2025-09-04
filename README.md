@@ -9,5 +9,8 @@
 <div align="center">
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=tugbakaraman&show_icons=true&locale=en&layout=compact" alt="tugbakaraman" /></p>
 
+<img src="https://github-readme-stats.vercel.app/api?username=tugbakaraman&show_icons=true&theme=tokyonight" width="50%"/><img src="https://github-readme-streak-stats.herokuapp.com/?user=tugbakaraman&theme=tokyonight" width="50%"/>
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tugbakaraman&layout=compact&theme=tokyonight)]
+
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=tugbakaraman&show_icons=true&locale=en" alt="tugbakaraman" /></p>
 </div>
