@@ -5,6 +5,5 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=tugbakaraman&show_icons=true&theme=highcontrast&title_color=00ffff&text_color=ffffff&locale=en" alt="tugbakaraman" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=tugbakaraman&theme=dark" alt="tugbakaraman" /></p>
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=tugbakaraman&theme=highcontrast" alt="tugbakaraman" /></p>
 
